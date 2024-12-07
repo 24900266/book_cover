@@ -62,6 +62,7 @@ Publish the website in the LocalHost.
 </html>
 ```
 ## OUTPUT:
+Book Cover Image
 
 ![res](output.png)
 
